@@ -1,3 +1,5 @@
+[![Android Gems](http://www.android-gems.com/badge/android-cjj/Android-MaterialDeleteLayout.svg?branch=master)](http://www.android-gems.com/lib/android-cjj/Android-MaterialDeleteLayout)
+
 MaterialDeleteLayout
 ================================================
 
