@@ -14,7 +14,7 @@ import android.widget.FrameLayout;
 import com.plattysoft.leonids.ParticleSystem;
 
 /**
- * Created by cjj on 2015/9/18.
+ * Created by cjj on 2015/9/21.
  */
 public class MaterialDeleteLayout extends FrameLayout {
     private static final String TAG = "cjj_log";
