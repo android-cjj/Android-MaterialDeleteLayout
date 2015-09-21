@@ -17,10 +17,15 @@ IOS的效果是这样的：
 
 ![](https://github.com/MartinRGB/MTMaterialDelete/raw/master/342.gif?raw=true)
 
-那一刻感觉android的效果lower了好多，然后就想写写了，呵呵，我一直认为ios能做到的，android能做的更好（路过的别打我，呵呵）当然，原作者ZhaoKaiQiang，写的很好。。。为了不多造轮子，我用了另一种方式去实现。。。
+那一刻感觉android的效果lower了好多，然后就想写写了，呵呵，我一直认为ios能做到的，android能做的更好（路过的别打我，呵呵）当然，原作者写的很好。。。为了不多造轮子，我用了另一种方式去实现。。。
 
 这是我实现的效果图：
+--------------------------------------------
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/21/155948g6lorqr6olkkikfk.png)
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/21/153255yl2wq6ghziqywizb.gif)
+
+感谢
+---------------------------------------------------------------
+[plattysoft/Leonids](https://github.com/plattysoft/Leonids)
