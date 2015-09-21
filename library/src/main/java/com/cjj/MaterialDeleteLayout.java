@@ -47,7 +47,7 @@ public class MaterialDeleteLayout extends FrameLayout {
 
     private void init() {
         mViewDragHelper = ViewDragHelper.create(this,1.0f,new DragHelperCallbackListener());
-        mViewDragHelper.setEdgeTrackingEnabled(ViewDragHelper.EDGE_ALL);
+        mViewDragHelper.setEdgeTrackingEnabled(ViewDragHelper.EDGE_RIGHT);
         mViewDragHelper.setMinVelocity(MIN_FLING_VELOCITY);
         Log.i(TAG, "cjj init");
     }
