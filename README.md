@@ -28,4 +28,4 @@ IOS的效果是这样的：
 
 感谢
 ---------------------------------------------------------------
-[plattysoft/Leonids](https://github.com/plattysoft/Leonids)
+[plattysoft/Leonids](https://github.com/plattysoft/Leonids)(因为android实现的粒子效果都用了这个库)
