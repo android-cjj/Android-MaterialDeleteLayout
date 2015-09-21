@@ -28,6 +28,10 @@ IOS的效果是这样的：
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/21/153255yl2wq6ghziqywizb.gif)
 
+bug
+---------------------------------------------------------
+因为是从手机边缘侧拉，有时候会很难拉，这点处理的不好，希望路过有兴趣的可以看看改改，提下Issuess或者pull request...
+
 感谢
 ---------------------------------------------------------------
 [plattysoft/Leonids](https://github.com/plattysoft/Leonids)(因为android实现的粒子效果都用了这个库)
