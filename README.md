@@ -24,7 +24,7 @@ IOS的效果是这样的：
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/21/155948g6lorqr6olkkikfk.png)
 
-感谢我同事(网名xcjj)帮我录制视频...啊哈哈...
+感谢我同事(网名xcjj,找他请加android群304243460)帮我录制视频...啊哈哈...
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/21/153255yl2wq6ghziqywizb.gif)
 
