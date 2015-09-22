@@ -1,3 +1,5 @@
+[![Android Gems](http://www.android-gems.com/badge/android-cjj/Android-MaterialDeleteLayout.svg?branch=master)](http://www.android-gems.com/lib/android-cjj/Android-MaterialDeleteLayout)
+
 MaterialDeleteLayout
 ================================================
 
@@ -28,8 +30,18 @@ IOS的效果是这样的：
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/21/153255yl2wq6ghziqywizb.gif)
 
+bug
+---------------------------------------------------------
+因为是从手机边缘侧拉，有时候会很难拉，这点处理的不好，希望路过有兴趣的可以看看改改，提下Issues或者pull request...
+
 感谢
 ---------------------------------------------------------------
 [plattysoft/Leonids](https://github.com/plattysoft/Leonids)(因为android实现的粒子效果都用了这个库)
 
 [ZhaoKaiQiang/ParticleLayout](https://github.com/ZhaoKaiQiang/ParticleLayout)
+
+随意说说
+-----------------------------
+刚建了个[github小伙伴交流群](http://t.cn/RyiVjnv)(477826523),有兴趣的朋友可以加进来的...小小要求：github有至少7个关注者或者开源库有7颗星星的...
+
+
