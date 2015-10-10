@@ -195,6 +195,12 @@ public class MaterialDeleteLayout extends FrameLayout {
 
     @Override
     public boolean onInterceptTouchEvent(MotionEvent ev) {
+        switch (ev.getAction())
+        {
+            case MotionEvent.ACTION_MOVE:
+                getParent().requestDisallowInterceptTouchEvent(true);
+                break;
+        }
         return mViewDragHelper.shouldInterceptTouchEvent(ev);
     }
 
